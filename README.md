@@ -18,5 +18,5 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-wequ-acexswaroop.vercel.app/api?username=ACExSWAROOP&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunAdhityaGB&langs_count=8&count_private=true&layout=compact&theme=github&hide_border=true&bg_color=0D1117" /></p>
+  <img  src="https://github-readme-stats-wequ-acexswaroop.vercel.app/api/top-langs/?username=ACExSWAROOP&langs_count=8&count_private=true&layout=compact&theme=github&hide_border=true&bg_color=0D1117" /></p>
 </details>
