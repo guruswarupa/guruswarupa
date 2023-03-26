@@ -11,7 +11,7 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/guru-swarupa-81a0a8262#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/guru-swarupa-81a0a8262#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_msg_swaroop_-light-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/_msg_swaroop_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_msg_swaroop_#gh-dark-mode-only)
 
 <details>
