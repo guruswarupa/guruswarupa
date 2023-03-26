@@ -17,7 +17,8 @@
 
 <summary>GitHub Stats</summary>
 <img align="left" alt="ACExSWAROOP's GitHub Stats" src="https://github-readme-stats-wequ-acexswaroop.vercel.app/api?username=ACExSWAROOP&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img align="left" alt="ACExSWAROOP's GitHub Stats" src="https://github-readme-stats-wequ-acexswaroop.vercel.app/api/top-langs/?username=ACExSWAROOP&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></p>
+<summary>GitHub </summary>
+<img align="left" alt="ACExSWAROOP's Most Used Languages" src="https://github-readme-stats-wequ-acexswaroop.vercel.app/api/top-langs/?username=ACExSWAROOP&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></p>
 
 
 
