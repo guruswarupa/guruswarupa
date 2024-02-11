@@ -3,8 +3,6 @@
 [![Spotify](https://spotify-nowplaying-acexswaroop.vercel.app/api/spotify)](https://open.spotify.com/user/31scot7d6ij7ttnsgp5vjzj252qa?si=f325451d7d3f41b1)
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://guruswarupa.vercel.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://guruswarupa.vercel.app/#gh-dark-mode-only)
 <a href="https://twitter.com/acexswaroop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guruswarupa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/guru-swarupa-81a0a8262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guru-swarupa-81a0a8262/" height="30" width="40" /></a>
 <a href="https://instagram.com/acexswaroop)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guruswarupa" height="30" width="40" /></a>
