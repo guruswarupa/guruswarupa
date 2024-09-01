@@ -10,8 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruswarupa&label=Profile%20views&color=0e75b6&style=flat" alt="guruswarupa" /> </p>
 
 <summary>GitHub Stats</summary>
-<img align="left" alt="guruswarupa's Most Used Languages" src="https://github-readme-stats-wequ-acexswaroop.vercel.app/api/top-langs/?username=guruswarupa&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img align="left" alt="guruswarupa's GitHub Stats" src="https://github-readme-stats-wequ-acexswaroop.vercel.app/api?username=guruswarupa&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![Guru Swarupa's GitHub stats](https://github-readme-stats.vercel.app/api?username=guruswarupa&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guruswarupa&theme=dark)
 
 
 
