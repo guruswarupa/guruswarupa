@@ -10,7 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruswarupa&label=Profile%20views&color=0e75b6&style=flat" alt="guruswarupa" /> </p>
 
 <summary>GitHub Stats</summary>
+
 ![Guru Swarupa's GitHub stats](https://github-readme-stats.vercel.app/api?username=guruswarupa&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guruswarupa&theme=dark)
 
 
