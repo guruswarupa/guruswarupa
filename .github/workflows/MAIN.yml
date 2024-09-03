@@ -22,15 +22,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: update action.yml to use image from local Dockerfile
-        run: |
-          sed -i "s/image: .*/image: Dockerfile/" action.yml
-
       - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
         uses: ./
         with:
-          github_user_name: platane
+          github_user_name: guruswarupa
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
