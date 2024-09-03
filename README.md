@@ -11,7 +11,7 @@
 
 <summary>GitHub Stats</summary>
 
-![Guru Swarupa's GitHub stats](https://github-readme-stats.vercel.app/api?username=guruswarupa&show_icons=true&theme=dark)
+<img align="left" alt="guruswarupa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guruswarupa&show_icons=true&theme=dark&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guruswarupa/guruswarupa/output/github-contribution-grid-snake-dark.svg">
