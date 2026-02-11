@@ -31,7 +31,6 @@
 ## ✨ My Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guruswarupa&show_icons=true&theme=dark&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide_border=false" alt="My GitHub stats" width="420"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guruswarupa&theme=highcontrast&hide_border=false" alt="My GitHub streak" width="420"/>
 </p>
 
