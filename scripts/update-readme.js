@@ -29,30 +29,59 @@ function getUptime() {
 }
 
 async function getGithubStats() {
-    const headers = {
-        Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
-        "User-Agent": USERNAME
-    };
+    const query = `
+    query($login: String!) {
+        user(login: $login) {
+            followers {
+                totalCount
+            }
 
-    const user = await fetch(
-        `https://api.github.com/users/${USERNAME}`,
-        { headers }
-    ).then(r => r.json());
+            repositories(ownerAffiliations: OWNER, first: 100) {
+                totalCount
+                nodes {
+                    stargazerCount
+                }
+            }
 
-    const repos = await fetch(
-        `https://api.github.com/users/${USERNAME}/repos?per_page=100`,
-        { headers }
-    ).then(r => r.json());
+            contributionsCollection {
+                totalCommitContributions
+            }
+        }
+    }`;
 
-    const stars = repos.reduce(
-        (sum, repo) => sum + repo.stargazers_count,
+    const response = await fetch("https://api.github.com/graphql", {
+        method: "POST",
+        headers: {
+            Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            query,
+            variables: {
+                login: USERNAME
+            }
+        })
+    });
+
+    const json = await response.json();
+
+    if (json.errors) {
+        console.error(json.errors);
+        throw new Error("GitHub GraphQL API request failed");
+    }
+
+    const user = json.data.user;
+
+    const stars = user.repositories.nodes.reduce(
+        (sum, repo) => sum + repo.stargazerCount,
         0
     );
 
     return {
-        repos: user.public_repos,
-        followers: user.followers,
-        stars
+        repos: user.repositories.totalCount,
+        followers: user.followers.totalCount,
+        stars,
+        commits: user.contributionsCollection.totalCommitContributions
     };
 }
 
@@ -67,6 +96,7 @@ async function main() {
         .replace(/(Repos:\.*\s).*/, `$1${stats.repos}`)
         .replace(/(Stars:\.*\s).*/, `$1${stats.stars}`)
         .replace(/(Followers:\.*\s).*/, `$1${stats.followers}`);
+        .replace(/(Commits:\.*\s).*/, `$1${stats.commits}`)
 
     fs.writeFileSync("README.md", readme);
 
