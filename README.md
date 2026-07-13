@@ -14,8 +14,8 @@
 &&&X   +X$$$$XXX&&&&&&&$X;...:+XXx;   &&&&
 &&&&   X$;xXXX+::;x$$$X+;;+xxxXx+XX   &&&&  - Contact ───────────────────────────────────────────────────────
 &&&&.  $$Xx+;. :+xX$&$Xx+X..+;:+XXX  :&&&&  - Email:.................. msgswarupa@gmail.com
-&&&&& .$XXXxxXxxxX$$&$XXxxxxXxXXXXX. ;$&&&  - LinkedIn:............... guruswarupa
-&&&&.+:$$$$$$$$$$$&$&$XXX$$$$$$$$XX:xx:&&&  - Portfolio:.............. https://guruswarupa.github.io
+&&&&& .$XXXxxXxxxX$$&$XXxxxxXxXXXXX. ;$&&&  - LinkedIn:............... linkedin.com/in/guruswarupa
+&&&&.+:$$$$$$$$$$$&$&$XXX$$$$$$$$XX:xx:&&&  - Portfolio:.............. guruswarupa.github.io
 &&&$+X:$$$&&&&$&$$$&&$$XX$&&&&&$$XX::x;&&& 
 &&&&x+:$$&&&&&&$X$+$$$xxXX$&&&&$$Xx.;+X&&&  - Github Stats ──────────────────────────────────────────────────
 &&&&xx+x$$&&&$XX$$Xx++xxXXXX$$$$Xx::++&&&&  - Repos:.................. 48
