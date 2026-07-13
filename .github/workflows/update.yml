@@ -2,6 +2,7 @@ name: Update README
 
 on:
   schedule:
+    # Runs every day at 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -13,14 +14,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - run: node scripts/update-uptime.js
+      - name: Update README
+        run: node scripts/update-readme.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update uptime
+          commit_message: "chore(readme): update profile stats"
