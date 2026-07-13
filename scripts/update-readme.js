@@ -31,29 +31,34 @@ function getUptime() {
 async function getGithubStats() {
     const query = `
     query($login: String!) {
-        user(login: $login) {
-            followers {
-                totalCount
-            }
-
-            repositories(ownerAffiliations: OWNER, first: 100) {
-                totalCount
-                nodes {
-                    stargazerCount
-                }
-            }
-
-            contributionsCollection {
-                totalCommitContributions
-            }
+      user(login: $login) {
+        followers {
+          totalCount
         }
+
+        repositories(
+          ownerAffiliations: OWNER
+          first: 100
+          isFork: false
+        ) {
+          totalCount
+          nodes {
+            stargazerCount
+          }
+        }
+
+        contributionsCollection {
+          totalCommitContributions
+        }
+      }
     }`;
 
     const response = await fetch("https://api.github.com/graphql", {
         method: "POST",
         headers: {
             Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
-            "Content-Type": "application/json"
+            "Content-Type": "application/json",
+            "User-Agent": USERNAME
         },
         body: JSON.stringify({
             query,
@@ -67,7 +72,7 @@ async function getGithubStats() {
 
     if (json.errors) {
         console.error(json.errors);
-        throw new Error("GitHub GraphQL API request failed");
+        throw new Error("GraphQL query failed.");
     }
 
     const user = json.data.user;
@@ -79,8 +84,8 @@ async function getGithubStats() {
 
     return {
         repos: user.repositories.totalCount,
-        followers: user.followers.totalCount,
         stars,
+        followers: user.followers.totalCount,
         commits: user.contributionsCollection.totalCommitContributions
     };
 }
@@ -95,12 +100,15 @@ async function main() {
         .replace(/(Uptime:\.*\s).*/, `$1${uptime}`)
         .replace(/(Repos:\.*\s).*/, `$1${stats.repos}`)
         .replace(/(Stars:\.*\s).*/, `$1${stats.stars}`)
-        .replace(/(Followers:\.*\s).*/, `$1${stats.followers}`)
-        .replace(/(Commits:\.*\s).*/, `$1${stats.commits}`);
+        .replace(/(Commits:\.*\s).*/, `$1${stats.commits}`)
+        .replace(/(Followers:\.*\s).*/, `$1${stats.followers}`);
 
     fs.writeFileSync("README.md", readme);
 
-    console.log("README updated.");
+    console.log("README updated successfully!");
 }
 
-main().catch(console.error);
+main().catch(err => {
+    console.error(err);
+    process.exit(1);
+});
