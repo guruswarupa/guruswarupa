@@ -30,7 +30,7 @@ function getUptime() {
 
 async function getGithubStats() {
     const headers = {
-        Authorization: `Bearer ${process.env.TOKEN}`,
+        Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
         "User-Agent": USERNAME
     };
 
