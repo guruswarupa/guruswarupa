@@ -21,11 +21,6 @@ if (months < 0) {
 
 const uptime = `${years} years, ${months} months, ${days} days`;
 
-let readme = fs.readFileSync("README.md", "utf8");
-
-readme = readme.replace(
-    /<!--UPTIME_START-->[\s\S]*<!--UPTIME_END-->/,
-    `<!--UPTIME_START-->\n${uptime}\n<!--UPTIME_END-->`
-);
+readme = readme.replace("{{UPTIME}}", uptime);
 
 fs.writeFileSync("README.md", readme);
