@@ -95,8 +95,8 @@ async function main() {
         .replace(/(Uptime:\.*\s).*/, `$1${uptime}`)
         .replace(/(Repos:\.*\s).*/, `$1${stats.repos}`)
         .replace(/(Stars:\.*\s).*/, `$1${stats.stars}`)
-        .replace(/(Followers:\.*\s).*/, `$1${stats.followers}`);
-        .replace(/(Commits:\.*\s).*/, `$1${stats.commits}`)
+        .replace(/(Followers:\.*\s).*/, `$1${stats.followers}`)
+        .replace(/(Commits:\.*\s).*/, `$1${stats.commits}`);
 
     fs.writeFileSync("README.md", readme);
 
