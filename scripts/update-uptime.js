@@ -1,7 +1,6 @@
 const fs = require("fs");
 
 const dob = new Date("2005-06-02");
-
 const now = new Date();
 
 let years = now.getFullYear() - dob.getFullYear();
@@ -19,8 +18,20 @@ if (months < 0) {
     months += 12;
 }
 
-const uptime = `${years} years, ${months} months, ${days} days`;
+function plural(value, word) {
+    return `${value} ${word}${value === 1 ? "" : "s"}`;
+}
 
-readme = readme.replace("{{UPTIME}}", uptime);
+const uptime = `${plural(years, "year")}, ${plural(months, "month")}, ${plural(days, "day")}`;
 
+// Read README
+let readme = fs.readFileSync("README.md", "utf8");
+
+// Replace placeholder
+readme = readme.replace(
+    /(Uptime:\.*\s).*/,
+    `$1${uptime}`
+);
+
+// Write updated README
 fs.writeFileSync("README.md", readme);
