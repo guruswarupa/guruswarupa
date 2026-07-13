@@ -1,45 +1,40 @@
 ```text
-&&&&&&&&&&&&&&&$&++x&X$&X$$&&&&&&&&&&&&&&&  guru@archlinux ─────────────────────────────────────────────────
-&&&&&&&&&&+                    .&&&&&&&&&&  - OS:..................... Arch Linux | Debian | Android
-&&&&&&&&X                       .&&&&&&&&&  - Host:................... Dell Latitude 3520
-&&&&&&&:                          ;&&&&&&&  - Kernel:................. Linux 7.1.3-arch1-2
-&&&&&+.                             +&&&&&  - Uptime:................. 21 years, 1 month, 11 days
-&&&&&                                ;&&&&  - DE:..................... KDE Plasma
-&&&&:                                 .&&&  - WM:..................... Hyprland
-&&&;          .::;::::::.              +&&  - Location:............... Bengaluru, India
-&&&        .:+XXX$$$$$XXXx+;:..        +&&  - Programming:............ Java, TypeScript, Python, Bash, SQL
-&&&      .;+xX$&&$$$&$$$$$XXXx+;.      x&&  - Languages:.............. Kannada, English, Hindi
-&&&     ;xX$$$&&$$$$$$$$$XXXXXX+:     +&&&  - Hobbies.Software:....... Linux, OSS, Homelabbing, DevOps
-&&&+    +X$$$$$&&&$$$&&&&&$$$XXX+.    &&&&  - Hobbies.Hardware:....... IoT, Networking, Servers
-&&&X   +X$$$$XXX&&&&&&&$X;...:+XXx;   &&&&  
-&&&&   X$;xXXX+::;x$$$X+;;+xxxXx+XX   &&&&  - Contact ───────────────────────────────────────────────────────
-&&&&.  $$Xx+;. :+xX$&$Xx+X..+;:+XXX  :&&&&  - Email:.................. msgswarupa@gmail.com
-&&&&& .$XXXxxXxxxX$$&$XXxxxxXxXXXXX. ;$&&&  - LinkedIn:............... linkedin.com/in/guruswarupa
-&&&&.+:$$$$$$$$$$$&$&$XXX$$$$$$$$XX:xx:&&&  - Portfolio:.............. guruswarupa.github.io
-&&&$+X:$$$&&&&$&$$$&&$$XX$&&&&&$$XX::x;&&& 
-&&&&x+:$$&&&&&&$X$+$$$xxXX$&&&&$$Xx.;+X&&&  - Github Stats ──────────────────────────────────────────────────
-&&&&xx+x$$&&&$XX$$Xx++xxXXXX$$$$Xx::++&&&&  - Repos:.................. 48
-&&&&&$x:x$$$$Xx+;;:.....;;;+XX$Xx;.X$&&&&&  - Stars:.................. 60
-&&&&&&&x:xX$X;..;+xXxxx;:.  +XXx;.+&&&&&&&  - Commits:................ 1890
-&&&&&&&&;;xXXXx&$$$$$$$XXXX+xx+:.:&&&&&&&&  - Followers:.............. 73
-&&&&&&&&&..;;;:+XXX;. :+xx+::..  $&&&&&&&&
-&&&&&&&&&&:      :;;::;;:..    .x&&&&&&&&&  - Softwares ─────────────────────────────────────────────────────
-&&&&&&&&&&&+       .. .       :xx&&&&&&&&&  - Editor:................. VS Code | Android Studio | Neovim
-&&&&&&&&&&&XX+              .;xXX&&&&&&&&&  - Shell:.................. fish
-&&&&&&&&&&&$$Xx:         .:;+xXXX$&&&&&&&&  - Package Manager:........ pacman | yay | apt | npm
-&&&&&&&&&&$$$$$XXxxxxXxxxxxXXXXXX+&&&&&&&&  - Terminal:............... kitty
-&&&&&&&&&&xX&&&$$XXXXXXXXXXXXXXXX+&&&&&&&&  - Browser:................ Brave
-&&&&&&&&&&&+&&&&&$$$$$$$$XXX$XXXXx&&&&&&&&
-&&&&&&&&&&&Xx$$&$$&$$$$$$$$$$XXX+&&&&&&&&&  - Interests:.............. AI, DevOps, Networking, Cybersecurity
-&&&&&&&&&&&&;xX$$$$$$X$$XXXXXXXx&&&&&&&&&&  - Hobbies:................ Drawing, Photography, Travelling
-&&&&&&&&&&&&&xxXXXXXXXXXXXXXXxxx&&&&&&&&&&  - Favorite Projects:...... Launch, Gitxplain, LinuxTV, Linutil
-&&&&&&&&&&&&&&x+x$$X$$$$$$XXxxx&&&&&&&&&&&  
-&&&&&&&&&&&&&&&xxX$$$$&&$$XXxx&&&&&&&&&&&&
+&&&&&&&&&&&&&&$&x+x$X$$x$&&&&&&&&&&&&&&& guru@archlinux ─────────────────────────────────────────────────
+&&&&&&&&&&.                   x&&&&&&&&& - OS:..................... Arch Linux | Debian | Android
+&&&&&&&&.                      $&&&&&&&& - Host:................... Dell Latitude 3520
+&&&&&&&.                        .&&&&&&& - Kernel:................. Linux 7.1.3-arch1-2
+&&&&&:                            .&&&&& - Uptime:................. 21 years, 1 month, 11 days
+&&&&x                              .$&&& - DE:..................... KDE Plasma
+&&&&.                               .X&& - WM:..................... Hyprland
+&&&.        .:;;x+++++;;:.           +&& - Location:............... Bengaluru, India
+&&&     ..:;xX$$$$$$$$$$Xx+;::.      :&& - Programming:............ Java, TypeScript, Python, Bash, SQL
+&&&    .:+XX$&&&&$$$$$$$$$XXxx;.     $&& - Languages:.............. Kannada, English, Hindi
+&&&.   :x$$&&&$$$$$$$$$$XXX$XX+:    +&&& - Hobbies.Software:....... Linux, OSS, Homelabbing, DevOps
+&&&;   ;X$$$&&&&&&&&&&&&&&$$$XX+    +&&& - Hobbies.Hardware:....... IoT, Networking, Servers
+&&&x  .X$$x+;::+x$&&$$x;..:;;;xXX.  $&&&
+&&&&  ;$xXXXXX+++x$$$Xx++x+x+xXXX;  &&&& - Contact ───────────────────────────────────────────────────────
+&&&&+.+$Xx++$.+Xx$$&$Xx+$++$++xX$+ ;&&&& - Email:.................. msgswarupa@gmail.com
+&&&&X.x$$$XXXxxX$$$&$XXXXXXXX$$X$x:x;&&& - LinkedIn:............... linkedin.com/in/guruswarupa
+&&&X+Xx$$&&&$$$&$$$&$XXX$&&&&&$$$x;x+&&& - Portfolio:.............. guruswarupa.github.io
+&&&Xx++$$&&&&&&$$&&&&$$X$&&&&&$$X+++x&&& - Whatsapp................ +91 9353238992
+&&&&x+;$$&&&&$$$X;xXX++X$$&&&$$Xx:++X&&& 
+&&&&$x+x$$&&$XX$X+;:;;+XXXX$$$Xx;:+$&&&& - Github Stats ──────────────────────────────────────────────────
+&&&&&&$:x$$$X::;++xxx+;;..:XXXx;.&&&&&&& - Repos:.................. 48
+&&&&&&&X;xX$X+XX$$$$$$Xxx+;Xx+;.x&&&&&&& - Stars:.................. 60
+&&&&&&&&x:;xX+X$$$X++xXXXx++;:.:&&&&&&&& - Commits:................ 1890
+&&&&&&&&&+.::..:;x+..:++;:..  :X&&&&&&&& - Followers:.............. 73
+&&&&&&&&&&+  .  ..::::.      ;xX&&&&&&&&
+&&&&&&&&&&&X;.   ... .     .;XXX&&&&&&&& - Softwares ─────────────────────────────────────────────────────
+&&&&&&&&&&&$Xx:    ..    .;+xXXX&&&&&&&& - Editor:................. VS Code | Android Studio | Neovim
+&&&&&&&&&&$$$$XXx+++++xxxxXXXXXX$&&&&&&& - Shell:.................. fish
+&&&&&&&&&&+&&&$$$XXXXXXXXXXXXXXX$&&&&&&& - Package Manager:........ pacman | yay | apt | npm
+&&&&&&&&&&x&&&&&$$$$$$$$XX$$XX$x&&&&&&&& - Terminal:............... kitty
+&&&&&&&&&&&+$$&&&$$&&&$$$$$$XXXx&&&&&&&& - Browser:................ Brave
+&&&&&&&&&&&$x$$$$$$$$$$$$$XXXX+&&&&&&&&&
+&&&&&&&&&&&&XxXX$XXX$XXXXXXXXx&&&&&&&&&& - Interests:.............. AI, DevOps, Networking, Cybersecurity
+&&&&&&&&&&&&&$xx$$$$$$$$$XXxx$&&&&&&&&&& - Hobbies:................ Drawing, Photography, Travelling
+&&&&&&&&&&&&&&XxX$$$&&&$$XXXX&&&&&&&&&&& - Favorite Projects:...... Launch, Gitxplain, LinuxTV, Linutil
 ```
-
-
-
-
 
   
 <p align="center">
