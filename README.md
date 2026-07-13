@@ -1,5 +1,5 @@
 ```text
-&&&&&&&&&&&&&&&$&++x&X$&X$$&&&&&&&&&&&&&&&  guru@archlinux ───────────────────────────────────────────────────────────
+&&&&&&&&&&&&&&&$&++x&X$&X$$&&&&&&&&&&&&&&&  guru@archlinux ──────────────────────────────────────────────────
 &&&&&&&&&&+                    .&&&&&&&&&&  - OS:..................... Arch Linux | Debian | Android
 &&&&&&&&X                       .&&&&&&&&&  - Host:................... Dell Latitude 3520
 &&&&&&&:                          ;&&&&&&&  - Kernel:................. Linux 7.1.3-arch1-2
@@ -9,14 +9,14 @@
 &&&;          .::;::::::.              +&&  - Location:............... Bengaluru, India
 &&&        .:+XXX$$$$$XXXx+;:..        +&&  - Programming:............ Java, TypeScript, Python, Bash, SQL
 &&&      .;+xX$&&$$$&$$$$$XXXx+;.      x&&  - Languages:.............. Kannada, English, Hindi
-&&&     ;xX$$$&&$$$$$$$$$XXXXXX+:     +&&&  - Hobbies.Software:....... Homelabbing, Automation, Open Source, OS Tinkering
+&&&     ;xX$$$&&$$$$$$$$$XXXXXX+:     +&&&  - Hobbies.Software:....... Homelabbing, Automation, Open Source
 &&&+    +X$$$$$&&&$$$&&&&&$$$XXX+.    &&&&  - Hobbies.Hardware:....... PC Building, Networking, Servers
 &&&X   +X$$$$XXX&&&&&&&$X;...:+XXx;   &&&&
-&&&&   X$;xXXX+::;x$$$X+;;+xxxXx+XX   &&&&  - Contact ────────────────────────────────────────────────────────────────
+&&&&   X$;xXXX+::;x$$$X+;;+xxxXx+XX   &&&&  - Contact ───────────────────────────────────────────────────────
 &&&&.  $$Xx+;. :+xX$&$Xx+X..+;:+XXX  :&&&&  - Email:.................. msgswarupa@gmail.com
 &&&&& .$XXXxxXxxxX$$&$XXxxxxXxXXXXX. ;$&&&  - LinkedIn:............... guruswarupa
 &&&&.+:$$$$$$$$$$$&$&$XXX$$$$$$$$XX:xx:&&&
-&&&$+X:$$$&&&&$&$$$&&$$XX$&&&&&$$XX::x;&&&  - Github Stats ────────────────────────────────────────────────────────────────
+&&&$+X:$$$&&&&$&$$$&&$$XX$&&&&&$$XX::x;&&&  - Github Stats ──────────────────────────────────────────────────
 &&&&x+:$$&&&&&&$X$+$$$xxXX$&&&&$$Xx.;+X&&&  - Repos:.................. 48
 &&&&xx+x$$&&&$XX$$Xx++xxXXXX$$$$Xx::++&&&&  - Stars:.................. 60
 &&&&&$x:x$$$$Xx+;;:.....;;;+XX$Xx;.X$&&&&&  - Commits:................ 1890
