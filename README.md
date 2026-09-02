@@ -1,43 +1,38 @@
+<table border="0" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+
+<td width="40%" valign="top" style="border: none; padding: 0;">
+<img src="1000089736-01.jpeg" width="100%" style="display: block;">
+</td>
+
+<td width="60%" valign="top" style="border: none; padding-left: 20px;">
+
 ```text
-&&&&&&&&&&&&&&$&x+x$X$$x$&&&&&&&&&&&&&&& guru@archlinux ──────────────────────────────────────────────────
-&&&&&&&&&&.                   x&&&&&&&&& - OS:..................... Arch Linux | Debian | Android
-&&&&&&&&.                      $&&&&&&&& - Host:................... Dell Latitude 3520
-&&&&&&&.                        .&&&&&&& - Kernel:................. Linux 7.1.3-arch1-2
-&&&&&:                            .&&&&& - Uptime:................. 21 years, 3 months, 0 days
-&&&&x                              .$&&& - DE:..................... KDE Plasma
-&&&&.                               .X&& - WM:..................... Hyprland
-&&&.        .:;;x+++++;;:.           +&& - Location:............... Bengaluru, India
-&&&     ..:;xX$$$$$$$$$$Xx+;::.      :&& - Programming:............ Java, TypeScript, Python, Bash, SQL
-&&&    .:+XX$&&&&$$$$$$$$$XXxx;.     $&& - Languages:.............. Kannada, English, Hindi
-&&&.   :x$$&&&$$$$$$$$$$XXX$XX+:    +&&& - Hobbies.Software:....... Linux, OSS, Homelabbing, DevOps
-&&&;   ;X$$$&&&&&&&&&&&&&&$$$XX+    +&&& - Hobbies.Hardware:....... IoT, Networking, Servers
-&&&x  .X$$x+;::+x$&&$$x;..:;;;xXX.  $&&&
-&&&&  ;$xXXXXX+++x$$$Xx++x+x+xXXX;  &&&& - Contact ───────────────────────────────────────────────────────
-&&&&+.+$Xx++$.+Xx$$&$Xx+$++$++xX$+ ;&&&& - Email:.................. msgswarupa@gmail.com
-&&&&X.x$$$XXXxxX$$$&$XXXXXXXX$$X$x:x;&&& - LinkedIn:............... linkedin.com/in/guruswarupa
-&&&X+Xx$$&&&$$$&$$$&$XXX$&&&&&$$$x;x+&&& - Portfolio:.............. guruswarupa.github.io
-&&&Xx++$$&&&&&&$$&&&&$$X$&&&&&$$X+++x&&& - Whatsapp................ +91 9353238992
-&&&&x+;$$&&&&$$$X;xXX++X$$&&&$$Xx:++X&&& 
-&&&&$x+x$$&&$XX$X+;:;;+XXXX$$$Xx;:+$&&&& - Github Stats ──────────────────────────────────────────────────
-&&&&&&$:x$$$X::;++xxx+;;..:XXXx;.&&&&&&& - Repos:.................. 50
-&&&&&&&X;xX$X+XX$$$$$$Xxx+;Xx+;.x&&&&&&& - Stars:.................. 61
-&&&&&&&&x:;xX+X$$$X++xXXXx++;:.:&&&&&&&& - Commits:................ 1988
-&&&&&&&&&+.::..:;x+..:++;:..  :X&&&&&&&& - Followers:.............. 75
-&&&&&&&&&&+  .  ..::::.      ;xX&&&&&&&&
-&&&&&&&&&&&X;.   ... .     .;XXX&&&&&&&& - Softwares ─────────────────────────────────────────────────────
-&&&&&&&&&&&$Xx:    ..    .;+xXXX&&&&&&&& - Editor:................. VS Code | Android Studio | Neovim
-&&&&&&&&&&$$$$XXx+++++xxxxXXXXXX$&&&&&&& - Shell:.................. fish
-&&&&&&&&&&+&&&$$$XXXXXXXXXXXXXXX$&&&&&&& - Package Manager:........ pacman | yay | apt | npm
-&&&&&&&&&&x&&&&&$$$$$$$$XX$$XX$x&&&&&&&& - Terminal:............... kitty
-&&&&&&&&&&&+$$&&&$$&&&$$$$$$XXXx&&&&&&&& - Browser:................ Brave
-&&&&&&&&&&&$x$$$$$$$$$$$$$XXXX+&&&&&&&&&
-&&&&&&&&&&&&XxXX$XXX$XXXXXXXXx&&&&&&&&&& - Interests:.............. AI, DevOps, Networking, Cybersecurity
-&&&&&&&&&&&&&$xx$$$$$$$$$XXxx$&&&&&&&&&& - Hobbies:................ Drawing, Photography, Travelling
-&&&&&&&&&&&&&&XxX$$$&&&$$XXXX&&&&&&&&&&& - Favorite Projects:...... Launch, Gitxplain, LinuxTV, Linutil
+guru@archlinux ──────────────────────────────────────────────────
+ - OS:..................... Arch Linux | Debian | Android
+ - Host:................... Dell Latitude 3520
+ - Kernel:................. Linux 7.1.3-arch1-2
+ - Uptime:................. 21 years, 3 months, 0 days
+ - DE:..................... KDE Plasma
+ - WM:..................... Hyprland
+ - Location:............... Bengaluru, India
+ - Programming:............ Java, TypeScript, Python, Bash, SQL
+ - Languages:.............. Kannada, English, Hindi
+ - Hobbies.Software:....... Linux, OSS, Homelabbing, DevOps
+ - Hobbies.Hardware:....... IoT, Networking, Servers
+
+ - Contact ───────────────────────────────────────────────────────
+ - Email:.................. msgswarupa@gmail.com
+ - LinkedIn:............... linkedin.com/in/guruswarupa
+ - Portfolio:.............. guruswarupa.github.io
+ - Whatsapp................ +91 9353238992
+
+ - Github Stats ──────────────────────────────────────────────────
+ - Repos:.................. 50
+ - Stars:.................. 61
+ - Commits:................ 1988
+ - Followers:.............. 75
+ - Interests:.............. AI, DevOps, Networking, Cybersecurity
+ - Hobbies:................ Drawing, Photography, Travelling
+ - Favorite Projects:...... Launch, Gitxplain, LinuxTV, Linutil
 ```
-
-  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guruswarupa&label=Profile%20views&color=0e75b6&style=flat" alt="guruswarupa" />
-</p>
-
