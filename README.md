@@ -1,11 +1,11 @@
 <table border="0" style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 
-<td width="40%" valign="top" style="border: none; padding: 0;">
+<td width="50%" valign="top" style="border: none; padding: 0;">
 <img src="1000089736-01.jpeg" width="100%" style="display: block;">
 </td>
 
-<td width="60%" valign="top" style="border: none; padding-left: 20px;">
+<td width="50%" valign="top" style="border: none; padding-left: 20px;">
 
 ```text
 guru@archlinux ──────────────────────────────────────────────────
