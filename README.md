@@ -36,3 +36,27 @@ guru@archlinux ─────────────────────�
  - Hobbies:................ Drawing, Photography, Travelling
  - Favorite Projects:...... Launch, Gitxplain, LinuxTV, Linutil
 ```
+</table>
+<p align="center">
+  <a href="https://www.instagram.com/guruswrp" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/808080" width="30" height="30" alt="Instagram" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/guruswarupa"><img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" width="30" height="30" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/guruswrp" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/x/888888" width="26" height="26" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@guruswarupa" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/youtube/888888" width="26" height="26" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.net/@guruswrp" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/threads/888888" width="26" height="26" alt="Threads" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitch.tv/guruswarupa" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/twitch/888888" width="26" height="26" alt="Twitch" />
+  </a>
+</p>
+<p align="center"><i>Building, learning, and contributing to open source.</i></p>
