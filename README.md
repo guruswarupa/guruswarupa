@@ -12,7 +12,7 @@ guru@archlinux ─────────────────────�
  - OS:..................... Arch Linux | Debian | Android
  - Host:................... Dell Latitude 3520
  - Kernel:................. Linux 7.1.3-arch1-2
- - Uptime:................. 21 years, 4 months, 16 days
+ - Uptime:................. 21 years, 4 months, 17 days
  - DE:..................... KDE Plasma
  - WM:..................... Hyprland
  - Location:............... Bengaluru, India
@@ -29,8 +29,8 @@ guru@archlinux ─────────────────────�
 
  - Github Stats ──────────────────────────────────────────────────
  - Repos:.................. 51
- - Stars:.................. 76
- - Commits:................ 2105
+ - Stars:.................. 77
+ - Commits:................ 2074
  - Followers:.............. 81
  - Interests:.............. AI, DevOps, Networking, Cybersecurity
  - Hobbies:................ Drawing, Photography, Travelling
